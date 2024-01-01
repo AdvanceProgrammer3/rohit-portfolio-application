@@ -29,7 +29,7 @@ export default function InteractiveResume(){
                 {/* Education */}
                 <section className="mb-6">
                     <h3 className="text-lg font-bold mb-2">Education</h3>
-                    <p>Bachelor's in Computer Science - Mahatma Gandhi Kashi Vidyapith</p>
+                    <p>Bachelor in Computer Science - Mahatma Gandhi Kashi Vidyapith</p>
                     <p>Graduation Year: 2019</p>
                 </section>
 
